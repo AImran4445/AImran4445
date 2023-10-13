@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AImran4445
 - 👀 I’m interested in ... exploring new Technologies
-- 🌱 I’m currently working ... Full stack development
+- 🌱 I’m currently working as a FullStack Developer
 - 💞️ I’m looking to collaborate on ... business
 - 📫 How to reach me ... via gmail account :  aliimran98887@gmail.com
 
